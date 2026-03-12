@@ -12,7 +12,7 @@ Senior AI Product Manager | HealthTech | Building Responsible AI & Digital Healt
 
 📫 How to reach me: nekkantisarada9@gmail.com ; LinkedIn link - https://www.linkedin.com/in/saradanekkanti/
 
-⚡ Fun fact: Before stepping into Product, I studied Electronics & Instrumentation with Minors in Computers, which sparked my curiosity about how technology, data, hardware and intelligent systems can solve real-world problems at scale.
+⚡ Fun fact: Before stepping into Product, I studied Electronics with Minors in Computers, which sparked my curiosity about how technology, data, hardware and intelligent systems can solve real-world problems at scale.
 <!--
 **SaradaNekkanti/SaradaNekkanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
